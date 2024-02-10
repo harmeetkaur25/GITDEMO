@@ -1,0 +1,32 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #111111e8;
+}
+
+h1 {
+    color: #f80606; 
+    font-size: 40px;  
+    margin-bottom: 20px; 
+}
+h2 {
+    color: #00eef7;
+    font-size: 26px; 
+    margin-bottom: 15px; 
+}
+h3 {
+    color: #00eef7;
+    font-size: 22px; 
+    margin-bottom: 10px; 
+}
+
+h4 {
+    color: #00eef7;
+    font-size: 20px; 
+    font-family: Arial, sans-serif; 
+    margin-bottom: 10px; 
+}
+
+p {
+    color:white;
+    font-size: 18px; 
+}
